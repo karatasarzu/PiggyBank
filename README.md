@@ -1,10 +1,8 @@
 # Piggy Bank
-Save your money with this WFA.
+> Save your money with this WFA.
 
-**PiggyBank** is a saving money app. 
-By using this application, you can store and manage the information of teams, players and matches between teams for real sports teams or sports activities among your friends.
-
-**WeAreTheChampions** is designed with C# language and Windows Form App .Net Framework. It used MS-SQL in database and used Entity Framework CodeFirst approach.
+**PiggyBank** is designed with C# language and Windows Form App.
+By using this application, you can enter the money you want to save, and when you want to break the piggy bank, you can view the money you have saved and the total amount.
 
 ## Usage Scenario
 
@@ -22,4 +20,4 @@ By using this application, you can store and manage the information of teams, pl
 
 - The piggy bank will be glued for once. In other words, once broken and the amount displayed, the piggy bank can be glued and used again. However, once it is broken for the second time, it cannot be pasted again. (When the broken piggy bank is pasted, its balance will decrease to 0.)
 
-![PublicUI](https://github.com/karatasarzu/WeAreTheChampions/blob/master/WeAreTheChampions/Resources/WATC.gif)
+![PublicUI](https://github.com/karatasarzu/PiggyBank/blob/master/PiggyBank/Resources/PiggyBank.gif)
