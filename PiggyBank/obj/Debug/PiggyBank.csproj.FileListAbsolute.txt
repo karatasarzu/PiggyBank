@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.KumbaraForm.resources
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.Properties.Resources.resources
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.ParalarForm.resources
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.CopyComplete
